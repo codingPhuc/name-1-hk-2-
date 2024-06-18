@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "4c5c818ec7142d6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d003bdfcbd4ac182",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "New folder/nhập môn hệ điều hành/hdh.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f5c1732744f56e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca4ed43de9ceece7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a36a9eef93710d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "40f95f29287d90e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21a9798e1dae67a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9679c36f9829cc75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14567643285cd9b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "New folder/nhập môn hệ điều hành/hdh.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d003bdfcbd4ac182",
+  "lastOpenFiles": [
+    "New folder/nhập môn hệ điều hành/hdh.md"
+  ]
+}

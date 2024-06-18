@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "4aefca2549ecb6e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb6a2ed6257e4fcf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bài 2 dân tộc tôn giáo.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36682e2182ead2ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd6404f5526e865c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77952ff51de871cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8b478ca279bb337",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d340fd6d16fff617",
+    "type": "split",
+    "children": [
+      {
+        "id": "03cd5f6da40b341a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69fc6e4bdcfd2c2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bài 2 dân tộc tôn giáo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb6a2ed6257e4fcf",
+  "lastOpenFiles": [
+    "bài 2 dân tộc tôn giáo.md",
+    "dân tộc.md",
+    "Tôn giáo.md"
+  ]
+}

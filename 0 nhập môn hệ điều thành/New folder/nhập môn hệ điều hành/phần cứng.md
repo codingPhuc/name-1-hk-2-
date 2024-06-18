@@ -1,0 +1,3 @@
+#khái_niệm 
+cung cấp tài nguyên phục vụ cho các chương trình , nhưng ứng dụng chạy và giải quyết công việt cho ng dùng 
+vd : bộ xử lý trung tâm , thiết bị đầu vào , mạch chủ ,RAM ... 

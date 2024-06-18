@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "2d27db65d41cedb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9600949984be897e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled 1.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c53a56e21c2f80c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc1f38a9773876de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deb92af8072fb760",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6aec8f6155808d70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#khái_niệm",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b701c38d39f04411",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405
+  },
+  "right": {
+    "id": "d3f07d294ba1c08a",
+    "type": "split",
+    "children": [
+      {
+        "id": "494e7619e816955b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af47f4997e70b87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ea4080bdacb603f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9600949984be897e",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
+    "cấu trúc các bộ phận/hdh.md",
+    "lời gọi (system calls).md",
+    "cấu trúc các bộ phận/NHẬP MÔN HỆ ĐIỀU HÀNH chương 2.md",
+    "cấu trúc các bộ phận/NHẬP MÔN HỆ ĐIỀU HÀNH chương 1.md",
+    "Untitled 3.md",
+    "cấu trúc các bộ phận/NHẬP MÔN HỆ ĐIỀU HÀNH chương 3.md",
+    "cấu trúc các bộ phận/tổ trức hệ thống máy tính.md",
+    "ngắt.md"
+  ]
+}
